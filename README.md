@@ -1,4 +1,4 @@
-#
+# A simple TV controller application using class structures and methods
 Merhaba Dostlar!
 Bu GitHub deposunda, Python programlama dili kullanarak basit bir televizyon kontrol kumandası oluşturdum. Bu projede daha yeni olduğum için kendimi geliştirmek adına büyük bir adım attım ve gerçekten heyecanlıyım.
 Proje, Python'da sınıf yapılarını ve çeşitli metodları kullanarak bir televizyonu kontrol etmeyi sağlar. Kumanda üzerindeki düğmeleri taklit eden işlevlerle birlikte basit bir kullanıcı arabirimi sunuyor.
